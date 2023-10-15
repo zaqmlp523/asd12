@@ -1,1 +1,9 @@
-안녕하세요
+git init : git을 쓸 준비 내가 초기화를 해주겠다. 맨처음에 프로젝트를 올리때에는 git init을 해줘야함
+git add . : 모든 파일을 올릴 수 있게 해준다
+git status :  현재 파일의 상태를 알려주는 명령어
+git commit -m "first commit" : 히스토리 이름
+git remote origin "깃허브 주소" : 깃과 프로젝트의 연결고리
+git push origin master : 마스터로 깃허브에 코드 전송
+git add . : 수정된 파일을 다시 올릴 수 있게 해준다
+ 
+
